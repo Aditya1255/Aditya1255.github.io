@@ -120,7 +120,7 @@
             justify-content: center;
             align-items: center;
             margin:1.5rem 0rem;
-            border-radius: 1.2rem;
+            border-radius: 1rem;
             
         }
         .xyz{
@@ -144,7 +144,7 @@
         .grid-food-item-name{
             font-size:1.5rem;
             font-weight: 500;
-            letter-spacing: 1rem;
+            letter-spacing: .1rem;
         }
         .grid-food-item-name1{
           background-color: green;
